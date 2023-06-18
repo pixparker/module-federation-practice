@@ -1,0 +1,19 @@
+.main-menu{
+  margin:20;
+
+  .menu-item{
+    display: inline-block;
+    border: 1px solid gray;
+    cursor: pointer;
+    padding: 4px;
+    margin: 4px;
+  }
+}
+
+.app-container{
+  border: 1px solid gray;
+  padding: 10px;
+  border-radius: 5px;
+  min-width: 200px;
+  min-height: 200px;
+}
